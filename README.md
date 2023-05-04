@@ -1,6 +1,6 @@
 # Business-Case-E-Commerce-Data-Analysis-using-SQL
 
-Business Case: E-Commerce SQL
+##Business Case: E-Commerce SQL
 
 XYZ.Ltd is one of the world’s most recognized brands and one of America’s leading E-Commerce 
 retailers. XYZ.Ltd makes itself a preferred shopping destination by offering outstanding value, 
